@@ -33,7 +33,7 @@ function Profiles() {
           aria-expanded={open ? 'true' : undefined}
         >
           <Avatar
-            sx={{ width: 32, height: 32 }}
+            sx={{ width: 34, height: 34 }}
             alt="Lewandowski"
             src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS29l8Lxgik6A5KVDTM8Uz3n3dGcrJwDp6plA&s"
           />
