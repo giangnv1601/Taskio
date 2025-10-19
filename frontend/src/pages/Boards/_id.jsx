@@ -1,5 +1,5 @@
 import Container from '@mui/material/Container'
-import AppBar from '../../components/AppBar/AppBar.jsx'
+import AppBar from '~/components/AppBar/AppBar.jsx'
 import BoardBar from './BoardBar/BoardBar.jsx'
 import BoardContent from './BoardContent/BoardContent.jsx'
 
